@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T09:13:44.179Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="S4i539Is1xfnlFSOxZqi" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T09:16:17.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="pbzIuJ_pjSKtDzaGKHrS" version="14.8.6" type="github">
   <diagram id="-na5h0D-D1UDdmaaNuAJ" name="Page-1">
     <mxGraphModel dx="1389" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="200" background="#eff1f3" math="0" shadow="0">
       <root>
@@ -7,11 +7,11 @@
         <mxCell id="-aPW-ji2FqaJZsPqDcpR-1" value="Distributed" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=16;labelBackgroundColor=none;shadow=1;sketch=0;glass=0;fillColor=#f19b97;fontColor=#EFF1F3;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="375" y="15" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-aPW-ji2FqaJZsPqDcpR-2" value="Performance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=16;labelBackgroundColor=none;shadow=1;sketch=0;glass=0;fillColor=#fcd765;fontColor=#EFF1F3;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="375" y="75" width="150" height="50" as="geometry" />
+        <mxCell id="-aPW-ji2FqaJZsPqDcpR-2" value="Performance" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=16;labelBackgroundColor=none;shadow=0;sketch=0;glass=0;fillColor=#fcd765;fontColor=#EFF1F3;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="740" y="65" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-aPW-ji2FqaJZsPqDcpR-3" value="Reliable" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=16;labelBackgroundColor=none;shadow=1;sketch=0;glass=0;fillColor=#79d8ce;fontColor=#EFF1F3;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="375" y="135" width="150" height="50" as="geometry" />
+          <mxGeometry y="135" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
